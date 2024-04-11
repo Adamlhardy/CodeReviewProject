@@ -53,7 +53,7 @@ This assignment is designed to help you practice with Java programming, unit tes
   ```bash
   git push origin feature/add-classes
   ```
-- **Create a Pull Request** against the `starter-code` branch in the main repository. Ensure your PR description clearly describes your changes.
+- **Create a Pull Request** against the `main` branch in the main repository. Ensure your PR description clearly describes your changes.
 
 ## Peer Review Process
 
@@ -61,17 +61,6 @@ This assignment is designed to help you practice with Java programming, unit tes
 - Provide feedback on code quality, adherence to assignment instructions, and test coverage.
 - Leave constructive comments directly on lines of code in the GitHub interface.
 
-## Submission Guidelines
-
-- Ensure your PR is created by the assignment due date.
-- Your submission will be considered complete after your PR is reviewed and you have responded to all the feedback.
-
-## Grading Criteria
-
-- Code functionality and correctness.
-- Adherence to assignment guidelines.
-- Quality and coverage of unit tests.
-- Constructiveness of peer review feedback.
 
 ## Resources
 
