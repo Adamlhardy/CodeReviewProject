@@ -24,7 +24,7 @@ This assignment is designed to help you practice with Java programming, unit tes
 ### Step 2: Branching
 
 - Navigate into the repository directory on your local machine.
-- Create and switch to a new branch off of the `main` branch:
+- Create and switch to a new branch off of the `starter-code` branch:
   ```bash
   git checkout -b feature/add-classes
   ```
