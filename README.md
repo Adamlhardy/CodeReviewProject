@@ -33,7 +33,7 @@ This assignment is designed to help you practice with Java programming, unit tes
 
 ### Part A: Implement Java Classes
 
-- **Create Java Classes**: Based on the assignment, create specific Java classes and methods. Details of the classes and methods will be outlined below.
+- **Create Java Classes**: Based on the assignment, create Java classes and methods. You should add at least one new class, add a couple instance variables, add a few methods to update the instance variables, and then call your class in main.
 
 ### Part B: Write Unit Tests
 
